@@ -66,16 +66,20 @@ This project aims to demonstrate how data analytics can power business decisions
 **1) Customer Performance Report:**
 https://github.com/Archiverma03/Excel-Sale-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf
 
-**1) Market Performance Target Report:**
+
+**2) Market Performance Target Report:**
 https://github.com/Archiverma03/Excel-Sale-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf
 
-**1) P & L Statement by Fiscal Year:**
+
+**3) P & L Statement by Fiscal Year:**
 https://github.com/Archiverma03/Excel-Sale-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf
 
-**1) P & L Statement by Markets:**
+
+**4) P & L Statement by Markets:**
 https://github.com/Archiverma03/Excel-Sale-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf
 
-**1) P & L Statement by Months:**
+
+**5) P & L Statement by Months:**
 https://github.com/Archiverma03/Excel-Sale-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf
 
 ---

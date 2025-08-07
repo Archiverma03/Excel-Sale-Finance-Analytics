@@ -54,7 +54,7 @@ This project aims to demonstrate how data analytics can power business decisions
 
 ---
 
-## ⚙ Tools Utilized
+##  Tools Utilized
 - Power Query (Microsoft Excel)  
 - Power Pivot  
 - Excel Pivot Tables & Charts  
@@ -63,5 +63,24 @@ This project aims to demonstrate how data analytics can power business decisions
 ---
 
 ## 📁 Project Files
+**1) Customer Performance Report:**
+https://github.com/Archiverma03/Excel-Sale-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf
 
-## 📂 Folder Structure
+**1) Market Performance Target Report:**
+https://github.com/Archiverma03/Excel-Sale-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf
+
+**1) P & L Statement by Fiscal Year:**
+https://github.com/Archiverma03/Excel-Sale-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf
+
+**1) P & L Statement by Markets:**
+https://github.com/Archiverma03/Excel-Sale-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf
+
+**1) P & L Statement by Months:**
+https://github.com/Archiverma03/Excel-Sale-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf
+
+---
+
+## Author
+📧: archiverma2003@gmail.com
+LinkedIN : https://www.linkedin.com/in/archi-verma
+
